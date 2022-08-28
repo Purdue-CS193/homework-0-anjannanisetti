@@ -1,7 +1,7 @@
 ## Personal Info
 
-name: Nanisetti, Anjan
-email: ananise@purdue.edu
+ - name: Nanisetti, Anjan
+ - email: ananise@purdue.edu
 
 ## Welcome to GitHub Pages
 
