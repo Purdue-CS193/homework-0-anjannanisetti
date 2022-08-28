@@ -1,7 +1,9 @@
-## Personal Info
+# Anjan Nanisetti's First CS193 Homework
 
- - name: Nanisetti, Anjan
- - email: ananise@purdue.edu
+## My Favotite Things About CS193
+
+- course leads are pretty cool
+- class seems to be easy but useful
 
 ## Welcome to GitHub Pages
 
